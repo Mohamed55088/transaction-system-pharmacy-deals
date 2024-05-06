@@ -21,7 +21,7 @@ Follow these steps to install the application.
 1. Clone the Repository
 
 ```
-git clone https://github.com/MusheAbdulHakim/transaction-system-pharmacy.git
+git clone https://github.com/Mohamed55088/transaction-system-pharmacy-deals.git
 
 ```
 
@@ -152,8 +152,7 @@ http://127.0.0.1:8000
     You can edit the product details by clicking on the edit button on the products page
     Or you can also delete product by clicking on the delete button on the products page.
 
-    ->Expired =>This page contains all products that are expired.That is products whose expiry date has reach.
-    The system automatically recognize them and put them there so you don't have to add them yourself.
+    ->Modification => Any modification that occurs is recorded by the person who made this modification
 
 -   Categories =>
     The categories page contains your products categories.
@@ -223,3 +222,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+
+# transaction-system-pharmacy-deals
+
+# transaction-system-pharmacy-deals
